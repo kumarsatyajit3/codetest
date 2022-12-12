@@ -1,0 +1,7 @@
+**node_modules
+**log
+**package-lock.json
+.github/.DS_Store
+.env
+.env.test
+*.zip
